@@ -11,6 +11,7 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintBottom_toBottomOf="parent"
             android:hint="Enter Text"
+            android:inputType="text"
             android:maxLines="1"
             android:gravity="center"
             android:textSize="32sp"
