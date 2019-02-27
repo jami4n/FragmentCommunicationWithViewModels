@@ -1,4 +1,4 @@
-# FragmentCommunicationWithViewModels
+# Fragment Communication With ViewModels
 Fragment to Fragment Communication With ViewModels
 
 A short project on how to enable fragment to fragment / fragment to activity communication using view models and livedata.
